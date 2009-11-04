@@ -1,0 +1,4383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-03-10 22:59+0100\n"
+"PO-Revision-Date: 2009-03-10 22:59+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [campaign]: id=Alfhelm_the_Wise
+#: Alfhelm/_main.cfg:10
+msgid "Alfhelm the Wise"
+msgstr ""
+
+#. [campaign]: id=Alfhelm_the_Wise
+#: Alfhelm/_main.cfg:11
+msgid "AtW"
+msgstr ""
+
+#. [campaign]: id=Alfhelm_the_Wise
+#: Alfhelm/_main.cfg:16
+msgid "(easiest)"
+msgstr ""
+
+#. [campaign]: id=Alfhelm_the_Wise
+#. [unit_type]: id=Alfhelm Warrior, race=marauder
+#: Alfhelm/_main.cfg:16 Alfhelm/units/Alfhelm_Warrior.cfg:5
+msgid "Warrior"
+msgstr ""
+
+#. [campaign]: id=Alfhelm_the_Wise
+#: Alfhelm/_main.cfg:17
+msgid "Pillager"
+msgstr ""
+
+#. [campaign]: id=Alfhelm_the_Wise
+#: Alfhelm/_main.cfg:18
+msgid "(hardest)"
+msgstr ""
+
+#. [campaign]: id=Alfhelm_the_Wise
+#: Alfhelm/_main.cfg:18
+msgid "Scorcher"
+msgstr ""
+
+#. [campaign]: id=Alfhelm_the_Wise
+#: Alfhelm/_main.cfg:25
+msgid ""
+"938-952 SI\n"
+"    \n"
+"This is the tale of Alfhelm, called by some the Wise, son of Alfric "
+"Conqueror. This is the tale of his victories over his enemies, and his rise "
+"to power in the clans of Marauderdom. This is the tale of his journey south "
+"and his destruction of the Lavinian Empire. And this is the tale of his "
+"demise in the dark forests far to the east of his homeland.\n"
+"    \n"
+"(Intermediate level, 15 scenarios.)\n"
+"\n"
+msgstr ""
+
+#. [scenario]: id=1_1_The_Seeress
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:10
+msgid "The Seeress"
+msgstr ""
+
+#. [side]: type=Alfhelm Warrior, id=Alfhelm
+#. [side]
+#. [side]: type=Marauder Warrior, id=Alfhelm
+#. [side]: type=Marauder Pillager, id=Wyborg
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:25
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:40
+#: Alfhelm/scenarios/3_Epilogue.cfg:25
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:27
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:25
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:25
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:26
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:27
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:35
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:26
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:27
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:25
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:26
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:20
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:26
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:25
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:26
+#: Alfhelm/scenarios/2_Epilogue.cfg:25
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:26
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:36
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:30
+#: Alfhelm/scenarios/1_Epilogue.cfg:25
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:26
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:56
+msgid "Alflings"
+msgstr ""
+
+#. [side]: type=Alfhelm Warrior, id=Alfhelm
+#. [side]: type=Marauder Warrior, id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:31
+#: Alfhelm/scenarios/3_Epilogue.cfg:29
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:33
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:31
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:29
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:32
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:33
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:39
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:30
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:32
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:30
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:31
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:24
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:31
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:30
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:30
+#: Alfhelm/scenarios/2_Epilogue.cfg:29
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:31
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:43
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:36
+#: Alfhelm/scenarios/1_Epilogue.cfg:29
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:30
+msgid "Alfhelm"
+msgstr ""
+
+#. [unit]: type=Marauder Hunter, id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:43
+msgid "Harn Bernson"
+msgstr ""
+
+#. [side]: type=Magni Provocator Leonis, id=Praravus
+#. [side]: type=Magni Provocator, id=Graiukus
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:63
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:61
+msgid "Orcs"
+msgstr ""
+
+#. [side]: type=Magni Provocator, id=Graiukus
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:65
+msgid "Graiukus"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:78
+msgid "PART I (938-940 SI): TO GO TO WAR..."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:82
+msgid ""
+"My name is Alfhelm... Alfhelm the Wise, some call me. I don't know quite "
+"why. I wouldn't call myself wise. Clever, maybe. But not wise."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:86
+msgid ""
+"My father was Alfric the Conqueror, a great Marauder lord. My mother was a "
+"noblewoman from another clan. I was born in Silvia, forty years after the "
+"Lavinians were driven from that land. While my father lived, he taught he "
+"the art of war."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:91
+msgid ""
+"I had a sister, as well. She was young, not yet of age to go learn magic "
+"from the Frost Elves. So that was our family; my parents, my sister, and "
+"myself."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:95
+msgid ""
+"Then, when I was seven, my father went away south, to war in Arendia. His "
+"housecarl Harn Bernson was left in charge of my education. He too was a "
+"great warrior, and I learned much from him."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:100
+msgid ""
+"That fall my father led the Marauders into battle against the Lavinians, in "
+"the hills next to the Arendian river."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:104
+msgid ""
+"The two forces encamped on opposite sides of the river, gathering forces, "
+"for several months. Then, the battle began. It raged for five whole days, "
+"and in the end we were victorious."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:109
+msgid "But my father left his life on that battlefield."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:113
+msgid ""
+"We heard of his death a few weeks later. The Sidhe elves heard of it too. "
+"Without the might of his army protecting our family, they believed they "
+"could attack us with impunity."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:118
+msgid ""
+"Soon, one night, they struck. Harn managed to get me out alive. My mother "
+"and sister were not so lucky."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:122
+msgid ""
+"Harn brought me southwest, to his own clan, to a small village on the "
+"borders of the wild fens. Those there were not warriors. They eked out a "
+"miserable existence, bullied both by other marauder clans and by the orcs "
+"living in the western mountains."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:126
+msgid ""
+"I was well enough respected by those living there. I had been trained in "
+"warfare by my father, and was easily the best fighter in the village. It was "
+"not long before I was placed in charge of the few others who knew how to "
+"fight."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:131
+msgid ""
+"It seemed for a while that this was to be my life. Uneventful, but safe."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:136
+msgid ""
+"Then, when I was twenty-four years old, I had a dream. I confess I did not "
+"understand it."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:141
+msgid ""
+"I asked Harn for advice in interpreting it. He said he did not know. But he "
+"knew someone who might."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:146
+msgid ""
+"Now, there were no witches in this village. It was too small to have "
+"representatives in Alfenheim. But there was one who lived alone, in a small "
+"hut, a few days journey from the town."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:163
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:256
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:548
+msgid "Bring Alfhelm next to the house of the Seeress"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:91
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:284
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:324
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:392
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:426
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:114
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:115
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:105
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:111
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:133
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:120
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:288
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:417
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:581
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:97 Alfhelm/scenarios/2_3_Ceresia.cfg:341
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:370 Alfhelm/scenarios/2_3_Ceresia.cfg:424
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:461 Alfhelm/scenarios/2_3_Ceresia.cfg:602
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:631 Alfhelm/scenarios/2_3_Ceresia.cfg:683
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:712
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:87
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:88
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:79
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:119
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:143
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:167
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:264
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:405
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:552
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:94
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:146
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:186
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:218
+msgid "Death of Alfhelm"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:292
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:332
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:400
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:119
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:124
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:292
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:421
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:585
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:101 Alfhelm/scenarios/2_3_Ceresia.cfg:345
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:374 Alfhelm/scenarios/2_3_Ceresia.cfg:428
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:465 Alfhelm/scenarios/2_3_Ceresia.cfg:606
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:635 Alfhelm/scenarios/2_3_Ceresia.cfg:687
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:716
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:91
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:92
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:83
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:123
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:171
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:268
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:409
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:556
+msgid "Death of Harn Bernson"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:181
+msgid "Bernshold"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:185
+msgid "House of the Seeress"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:189
+msgid "Forest Road"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:101
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:193
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:197
+msgid "To Allied Villages"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:203
+msgid ""
+"Now, my boy, please understand. This seeress is one of the most powerful I "
+"have known. She is not to be consulted lightly. If yours is not a true "
+"portent, she will not look kindly upon your intrusion."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:207
+msgid "I understand. But I am sure. There is nothing else it could be."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:211
+msgid ""
+"Very well. She lives south-west of here. Go south down the road, and quite "
+"soon you will find a dirt path. Follow it through the swamp. In a few days, "
+"you will find her house. And go alone - she will rarely tolerate one "
+"visitor, let alone an army. And you'd better hurry - prophecies have a "
+"tendency of disappearing from memory."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:215
+msgid ""
+"But remember. You are, like it or not, the best warrior among these people. "
+"You cannot leave them alone without defense while you go off questing. And "
+"there are rumors of orcs rearming in the mountains."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:219
+msgid "Very well. Fare well, Harn."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:234
+msgid "What is this? Orcs are attacking!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:238
+msgid "They look to me merely like escaped gladiators from Lavinia."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:242
+msgid "Yes, but they are still fierce fighters. We must defend the village."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:246
+msgid "But I must continue on to the Seeress. Resist them until I return."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:250
+msgid "Very well. Let no orc pass the palisade!"
+msgstr ""
+
+#. [objectives]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:254
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:395
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:546
+msgid "The village is defined as any of the four houses inside the palisade"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:260
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:401
+msgid "Defend the village"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:272
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:413
+msgid "Entry of orcs into the village"
+msgstr ""
+
+#. [unit]: id=Ranhilde, type=Marauder Seeress
+#. [message]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:287
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:507
+msgid "Ranhilde"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:298
+msgid "Who is it that disturbs me?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:302
+msgid "I am Alfhelm, son of Alfric the Conqueror!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:306
+msgid "And am I meant to be impressed?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:310
+msgid "Um..."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:314
+msgid "Why have you come, Alfhelm? What do you seek from me?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:318
+msgid ""
+"A few days ago, I had a dream. I believe it may have been... more than a "
+"mere dream."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:322
+msgid ""
+"As do many. Yet for most, they are still but dreams. Why are you different?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:326
+msgid "My father was a great warlord. My wierd is not that of the many."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:330
+msgid ""
+"Spoken like the prideful son a dead man. But if you insist, tell me. What "
+"was your dream?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:334
+msgid ""
+"It was night, and a man was walking through the woods with a giant eagle at "
+"his side. The eagle flew, as if to hunt, and descended upon a bluish wolf."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:338
+msgid ""
+"The wolf pounced on the eagle, and the two fought. The wolf was slain, but "
+"the eagle was wounded, and another wolf came out of the trees and finished "
+"what its father had started."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:342
+msgid "In truth, you saw this? Strange..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:348
+msgid "But what does it mean?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:352
+msgid "What? Oh, its meaning? Can you not see?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:356
+msgid ""
+"The eagle is the Lavinian Empire. Your father fell against it, but he "
+"wounded it enough for you to triumph against it. You saw yourself slay it? "
+"Then in life, you shall slay it."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:360
+msgid ""
+"The man who walks with the Empire... I do not know this. But it is not "
+"important. What matters is that you will defeat Lavinium."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:364
+msgid "So... what should I do?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:368
+msgid ""
+"We must raise an army. This village - it is not large. But it is a start. "
+"Lead them, and they will follow you. Before we go to Lavinia, we must go "
+"north, and convince the other clans to unite under your banner."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:372
+msgid "Wait. 'We'?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:376
+msgid ""
+"I mean... I have never before heard a true prophecy. I doubt I will do so "
+"again. A seeress is bound to the prophecies she interprets... If you'll have "
+"me, I will come with you, to see for myself how the augury I have given you "
+"will come true."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:380
+msgid "Very well. Follow me, back to the village."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:397
+msgid "Bring Alfhelm and the Seeress back to the village"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:483
+msgid "The orcs have taken the village!"
+msgstr ""
+
+#. [message]: speaker=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:504
+msgid "Wait! You shouldn't have -"
+msgstr ""
+
+#. [message]
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:508
+msgid "You dare to enter my house uninvited? Die, villager!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:532
+msgid "Good, we've driven the orcs back!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_1_The_Seeress.cfg:542
+msgid ""
+"Good, we've driven the orcs back! But you still have to talk the the Seeress "
+"before your memory of the dreams wears thin..."
+msgstr ""
+
+#. [scenario]: id=1_2_A_Warriors_Destiny
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:7
+msgid "A Warrior's Destiny"
+msgstr ""
+
+#. [side]: type=Marauder Hunter, id=Rym
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:40
+msgid "Allied Villages"
+msgstr ""
+
+#. [side]: type=Marauder Hunter, id=Rym
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:46
+msgid "Rym Gyrthsson"
+msgstr ""
+
+#. [side]: type=Marauder Raider, id=Form
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:62
+msgid "Form Fjomarsson"
+msgstr ""
+
+#. [side]: type=Marauder Hunter, id=Sjald
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:79
+msgid "Sjald Sjoldsson"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:88
+msgid ""
+"So I was fated to go south and conquer Lavinium... very well. But first I "
+"needed an army."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:92
+msgid ""
+"We had to start by securing the aid of the other swampland villages. So we "
+"went southeast, to the three nearest of these - Rythgaard, Frjothold, and "
+"Sjoldenheim."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:111
+msgid "Bring Rythgaard, Frjothold, and Sjoldenheim to your banner"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:115
+msgid "(Defeat each enemy leader to convince them to ally with you)"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:296
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:336
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:404
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:123
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:128
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:296
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:425
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:589
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:105 Alfhelm/scenarios/2_3_Ceresia.cfg:349
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:378 Alfhelm/scenarios/2_3_Ceresia.cfg:432
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:469 Alfhelm/scenarios/2_3_Ceresia.cfg:610
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:639 Alfhelm/scenarios/2_3_Ceresia.cfg:691
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:720
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:95
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:96
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:87
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:127
+msgid "Death of Ranhilde"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:137
+msgid "Rythgaard"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:141
+msgid "Frjothold"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:145
+msgid "Sjoldenheim"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:149
+msgid "To Bernshold"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:153
+msgid "Old River Fort"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:165
+msgid "Greetings, friends!"
+msgstr ""
+
+#. [message]: id=Rym
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:169
+msgid "Hail, Harn Bernson. What're you doing here?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:173
+msgid "I come with the son of Al... of a friend of mine."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:177
+msgid "I am Alfhelm, son of Alfric the Conqueror."
+msgstr ""
+
+#. [message]: id=Form
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:181
+msgid "Oh are you now? What of it?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:185
+msgid "I am raising an army. I intend to finish what my father started."
+msgstr ""
+
+#. [message]: id=Sjald
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:189
+msgid "What, you? Why d'you think you'll be able to do that?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:193
+msgid "Because it has been foretold."
+msgstr ""
+
+#. [message]: id=Rym
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:197
+msgid "I... and... um... who are you?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:201
+msgid "A seeress, trained in Alfenheim."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:205
+msgid ""
+"But this is not what we are here for. What we want to know is - will you "
+"join me?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:209
+msgid "Us."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:213
+msgid "Uh, right, us. Well?"
+msgstr ""
+
+#. [message]: id=Sjald
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:217
+msgid "What proof have we you will succeed? This plan sounds foolish at best."
+msgstr ""
+
+#. [message]: id=Rym
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:221
+msgid ""
+"Indeed. We have no desire to rebel against the great houses only to be "
+"crushed down even lower than we already are."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:225
+msgid "What can I do to convince you?"
+msgstr ""
+
+#. [message]: id=Form
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:229
+msgid ""
+"I do not know about Sjald and Rym, but if you can defeat my men in a "
+"tourney, Frjothold will join you."
+msgstr ""
+
+#. [message]: id=Sjald
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:233
+msgid "That would satisfy me as well, if you desire the aid of Sjoldenheim."
+msgstr ""
+
+#. [message]: id=Rym
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:237
+msgid "And also Rythgaard."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:241
+msgid "Very well! Let us not delay."
+msgstr ""
+
+#. [message]: id=Rym
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:255
+msgid ""
+"You are more skilled than I expected! Rythgaard will gladly join with you."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:312
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:385
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:459
+msgid "It is decided, then!"
+msgstr ""
+
+#. [message]: id=Form
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:329
+msgid "Very well. A bargain is a bargain; Frjothold is at your command."
+msgstr ""
+
+#. [message]: id=Sjald
+#: Alfhelm/scenarios/1_2_A_Warriors_Destiny.cfg:402
+msgid ""
+"This is proof enough for me. Sjoldenheim will fight for Alfhelm Alfricsson!"
+msgstr ""
+
+#. [scenario]: id=1_3_Out_of_the_Swamps
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:7
+msgid "Out of the Swamps"
+msgstr ""
+
+#. [side]: type=Marauder Scorcher, id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:39
+msgid "Gyrdlings"
+msgstr ""
+
+#. [side]: type=Marauder Scorcher, id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:45
+msgid "Gardi Gwyrsson"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:51
+msgid ""
+"Our army, if you could call it that, had begun to grow. But you cannot "
+"invade Lavinia with only a few Marauder peasants at your back - so Ranhilde "
+"and Harn told me."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:55
+msgid ""
+"Marauder clan alliances are complex, and to build a strong alliance we would "
+"have to bring villages to our side one by one. Our next target was Gardi, "
+"the lord of the swamplands."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:75
+msgid "Defeat Gardi"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:97
+msgid "Gyrdlingford"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:105
+msgid "To Northern Villages"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:109
+msgid "To Berdssenhold"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:121
+msgid ""
+"We have come to the land of Gardi, lord of the Gyrdling clan. We must "
+"convince him to join us... whether by words, or by the sword."
+msgstr ""
+
+#. [message]: id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:125
+msgid "Halt! What force of arms comes to the land of Gardi?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:129
+msgid ""
+"Greetings, lord of the house of Gyrdlings! I bring greetings from the Bern "
+"clan, and a proposition."
+msgstr ""
+
+#. [message]: id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:133
+msgid ""
+"What sort of a proposition? And who are you that speaks with authority and "
+"yet is so young?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:137
+msgid ""
+"I am Alfhelm, son of Alfric the Conqueror. I am raising an army to wage war "
+"on Lavinium. Will your clan join me?"
+msgstr ""
+
+#. [message]: id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:141
+msgid ""
+"An army? You call what you have an army? If that's all you have, no I won't "
+"join you. You'll be slaughtered!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:145
+msgid ""
+"Watch your words, Gardi. You speak to the son of the thain who defeated "
+"those Lavinian dogs."
+msgstr ""
+
+#. [message]: id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:149
+msgid ""
+"That was his father, not him. I accord him no respect - he has lived his "
+"whole life in your wattle-and-daub huts, Harn."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:153
+msgid "Very well. If you will not join us, fine. But your clan will."
+msgstr ""
+
+#. [message]: id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:157
+msgid ""
+"Oh, I see... you have a fay with you... I suppose she's told you you're "
+"fated to conquer the world or somesuch. Well you'll soon see that you're not "
+"the only one with eld magic on your side! I will not be threatened by "
+"Alfric's brat!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:162
+msgid "This is your choice, Gardi! Prepare for battle."
+msgstr ""
+
+#. [message]: id=Gardi
+#: Alfhelm/scenarios/1_3_Out_of_the_Swamps.cfg:176
+msgid "May the curse of Thuran be upon you..."
+msgstr ""
+
+#. [scenario]: id=1_4_For_Honor
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:7
+msgid "For Honor"
+msgstr ""
+
+#. [side]: type=Marauder Lord, id=Ard
+#. [side]: type=Marauder Woodsman, id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:40
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:57
+msgid "Berdlings"
+msgstr ""
+
+#. [side]: type=Marauder Lord, id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:46
+msgid "Ard Bardssen"
+msgstr ""
+
+#. [side]: type=Marauder Woodsman, id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:63
+msgid "Erda Bardssen"
+msgstr ""
+
+#. [side]: type=Wild Elf Dark Thunderblade, id=Vaniyera
+#. [side]: type=Wild Elf Tempest, id=Ayslinn
+#. [side]: type=Wild Elf Warmage, id=Elyvuin
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:49
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:42
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:48
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:74
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:39
+msgid "Sidhe"
+msgstr ""
+
+#. [side]: type=Wild Elf Dark Thunderblade, id=Vaniyera
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:56
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:47
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:81
+msgid "Vaniyera"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:88
+msgid ""
+"And so our army began to grow. After that, most joined us without a fight. "
+"Ranhilde said this was due to fate; but I think it was because they knew we "
+"were true warriors."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:92
+msgid ""
+"For the first year, we stayed in the south-western part of the Marauder "
+"forests. But there were only so many clans there - not nearly enough to "
+"defeat Lavinium. Ranhilde suggested we travel towards the heart of "
+"Marauderdom, and build up our alliance from there."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:96
+msgid ""
+"The Berdlings had supported my father in his lifetime, and my own house was "
+"no more... it was only logical to go ask the Berdlings for their help."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:116
+msgid "Defeat Ard and Erda Bardssen"
+msgstr ""
+
+#. [scenario]: id=1_4t_Berdssenhold
+#. [label]
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:7
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:138
+msgid "Berdssenhold"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:161
+msgid ""
+"Look, brother! An army approaches us. It appears to be Alfhelm. Now, I say -"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:165
+msgid ""
+"Let's get this right. He gets one chance. If he refuses to join us, we kill "
+"him."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:169
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:258
+msgid "But -"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:191
+msgid "Hail, sons of Bard! We come from the southwestern lands."
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:195
+msgid "So! It is you, Alfhelm. Well, we have a proposition for you."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:199
+msgid "You have a proposition for me? What could that possibly be?"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:203
+msgid "Join us, or die."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:207
+msgid ""
+"Amusing... you know, we also have a proposition to make. You join us, or you "
+"will die."
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:211
+msgid "Hah! Well, prepare for battle!"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:215
+msgid "Yeah. Um, prepare for battle..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:234
+msgid ""
+"Well! I see that the marauder dogs are busy fighting each other. Good, they "
+"will be distracted. Attack them!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:238
+msgid ""
+"Wait? Where does that voice come from? It could only be that of Sidhe "
+"Thunderblade! What does a thunderblade do in these parts?!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:242
+msgid "It sounds like that of Vaniyera... he who slew your father."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:246
+msgid ""
+"Look, Bardlings, the elves are our mutual enemies. Why should we fight each "
+"other as they attack us?"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:250
+msgid "He makes a good point. A thunderblade has no business here. I -"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:254
+msgid ""
+"No he doesn't! If he surrenders to us, he can fight alongside us - but if he "
+"doesn't, he dies like the elves. I won't have some upstart swamp-dweller "
+"fight as my equal!"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:262
+msgid "You're a Bardling, Erda. Where's you're pride?!"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:266
+msgid ""
+"But why shouldn't we fight this thunderblade - it'll be hard enough to deal "
+"with him on his own, damn it - then come to terms with this Alfhelm?"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:270
+msgid ""
+"You can fight alongside those peasants like a dog - but I won't. And if they "
+"set foot in this castle, you will pay for it."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:274
+msgid ""
+"Very well. You may fight Alfhelm, but I won't. And if you try to force me, I "
+"will fight you."
+msgstr ""
+
+#. [objectives]
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:282
+msgid "Do not enter the castle of Ard Bardssen"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:280
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:388
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:284
+msgid "Defeat Vaniyera"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:300
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:429
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:593
+msgid "Death of Erda Bardssen"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:388
+msgid "The Alfling is entering the city! This is your fault, Erda!"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:392
+msgid "that's absurd!"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:396
+msgid "Nonetheless you shall die for it!"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:400
+msgid "This is madness! Very well, brother, we shall fight!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:404
+msgid ""
+"It seems Ard Bardssen is irredeemably our enemy... we must kill him to have "
+"any hope of alliance with the Berdssen house!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:413
+msgid "Defeat Vaniyera and Ard Bardssen"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:456
+msgid ""
+"Dammit, brother! I did not intend your death, but you brought it upon "
+"yourself."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:462
+msgid "Aigh! My brother, he falls! You will pay for this, elf!"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:468
+msgid ""
+"As for you, Alfhelm... we have much to discuss. I only do not slay you "
+"because of these elves here."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:472
+msgid "Fine. We will have a council. After we get rid of these elves."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:476
+msgid "Back to the battle, then! We are allies - for now."
+msgstr ""
+
+#. [message]: role=coward
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:492
+msgid "It seems Ard Bernssen has fallen... well then, long live Erda Berdssen!"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:515
+msgid "Arrgh..."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:519
+msgid "I did not want your death, Ard, but you brought it upon yourself!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:523
+msgid "Well, Erda, we have much to discuss... may we enter the city?"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:527
+msgid "Yes, yes... you, but not your army."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:550
+msgid ""
+"It is as I feared - this Alfhelm has grown strong. Why could we not kill him "
+"when we had the chance? Well, let these termites fight amongst themselves... "
+"I leave."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:560
+msgid ""
+"So, brother! We have chased away this elf in spite of your foolery. What say "
+"you? Are you prepared to die for your teachery?"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:564
+msgid ""
+"Ha! You're the traitor to our house, Erda. I'll not stand for you to live!"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:568
+msgid ""
+"What? What are you talking about? You betrayed me, and our city! And now you "
+"will perish for it."
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:572
+msgid "This is a fight to the death, Erda! You and the Alfling will perish!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:577
+msgid "Defeat Ard Bardssen"
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:601
+msgid ""
+"Well then! Now that the elf is gone, we must decide the fate of Alfhelm... "
+"What do you say, brother?"
+msgstr ""
+
+#. [message]: id=Ard
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:605
+msgid ""
+"I suppose he has proven his worth... and if the elves are indeed going to be "
+"attacking us more in earnest, we need the strength in arms. But I will not "
+"bow to him. Invite him into the city, but not his army."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:609
+msgid "Very well..."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:629
+msgid "Indeed, it is as I feared. This Alfhelm is great in power..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:633
+msgid "The thunderblade has fled. Alas, we did not manage to slay him..."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:637
+msgid ""
+"Slay a thunderblade? Such a feat would be great indeed. It has never been "
+"done but by treachery, not since the dwarves made their swords and their "
+"king Vanimaro's spirit entered into them. Or so the Issaelfr taught me."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:641
+msgid ""
+"I suppose there may be time to deal with the Thunderblades some later day... "
+"for now, we have other matters to discuss."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/1_4_For_Honor.cfg:645
+msgid "Indeed. We go to council."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:37
+msgid ""
+"We were welcomed into Berdssenhold, the brothers' fortress, for a council of "
+"war."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:41
+msgid ""
+"With the help of Ranhilde, I convinced the Berdlings to aid us in our quest. "
+"They would give us enough coin to raise an army and defeat the Wylflings. At "
+"that point, our alliance would have total control over all Marauderdom. From "
+"there, we would build up an army vast enough to take down Lavinium."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:46
+msgid ""
+"But as the year was drawing to a close, we decided to spend the winter in "
+"Berdssenhold, preparing for the coming battle."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:51
+msgid ""
+"During this time, I had many a talk with Harn Bernson and Ranhilde. Much of "
+"little import was discussed, and some points of great importance were "
+"decided."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:66
+msgid ""
+"So, Alfhelm. It looks like you are on your way to victory over the Lavinians."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:70
+msgid "Yes, it does. Though we have not won yet."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:74
+msgid ""
+"True. Now, Alfhelm... you must remember. You are not only going to be a "
+"conquering warrior. You will also be lord of your people."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:78
+msgid "And I am ready for it. My father was lord of marauderdom as well."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:82
+msgid ""
+"Perhaps... But ruling the Marauder people is not merely a matter of fighting "
+"well and adjucating wisely. Listen. When your father died, our people were "
+"plunged into chaos. Why was that, do you think?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:86
+msgid ""
+"Because there was no one to take his place. The Sidhe killed the rest of his "
+"family... except for me. And for this we hate them."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:90
+msgid ""
+"Exactly. Now, those were strange circumstances, and if the Sidhe had not "
+"dared to do such a deed, these last seventeen years would have been much "
+"different. But the general idea remains - if there is no one to succeed the "
+"king upon his death, the alliance will crumble."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:94
+msgid ""
+"What are you saying, you want me to appoint an heir? Before I am even made "
+"warlord over anything? Hah!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:98
+msgid ""
+"You will need an heir eventually, and it would help to have him be of age "
+"when you die - so that he can rule on his own."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:102
+msgid "Yes, you have a point..."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:106
+msgid ""
+"Well, for this to happen, we cannot just watch and wait. We must act now. "
+"There are already many noblemen willing to give their daughters to you, to "
+"solidify their standing with you..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:110
+msgid "So what exactly do you suggest?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:114
+msgid ""
+" I would say to wed one of the daughters of Erda Berdsson, but he has "
+"none... perhaps you should wed the seeress, Ranhilde. She is of noble blood, "
+"and she is of the Berdling clan as well. It would be a fruitful alliance."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:118
+msgid "Hm. I... I don't know. Maybe. I don't like the idea."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:122
+msgid ""
+"Actually, it seems to me to be the best option, politically. It has a "
+"certain poetry to it as well. It will go over well with the peasant-folk."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:126
+msgid ""
+"But... I don't know. It seems wrong to wed her for those sorts of reasons."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:130
+msgid ""
+"Yes, yes, I know what you mean. And yet... it would have so many benefits. "
+"You should at least see if she is willing."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:134
+msgid "If you insist, Harn. If it really is necessary... here, go get her."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:143
+msgid "Yes, son of Alfric, what do you want?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:147
+msgid ""
+"Well... in essence, Harn here thinks I should marry you. For political "
+"reasons."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:151
+msgid "And why would I do that?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:155
+msgid "I really don't know."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:159
+msgid "I don't either."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:163
+msgid "Well, what do you say?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:167
+msgid "Harn, why do you think I should marry him?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:171
+msgid ""
+"Well, you see... for one, you are a Berdling. It gives him a stronger hold "
+"over the people here. And he needs to wed, sooner rather than later."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:175
+msgid "I see."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:179
+msgid "Well?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:183
+msgid ""
+"I have no desire to wed. But if Alfhelm wants to do so, I have no objections."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:187
+msgid "Hm... well, Harn, I suppose this is probably as good a match as any."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_4t_Berdssenhold.cfg:191
+msgid "It doesn't really matter anyways."
+msgstr ""
+
+#. [scenario]: id=1_5_Wylflingdom
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:7
+msgid "Wylflingdom"
+msgstr ""
+
+#. [side]: type=Marauder Lord, id=Gyrdwulf
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:41
+msgid "Wylflings"
+msgstr ""
+
+#. [side]: type=Marauder Lord, id=Gyrdwulf
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:47
+msgid "Gyrdwulf Wylfsson"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:53
+msgid ""
+"So Ranhilde and I were wed a few months later, just before we went off to "
+"the land of the Wylflings. I tried to get her to stay behind in "
+"Berdssenhold, but she insisted on coming."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:57
+msgid ""
+"Now, the Wylflings are the third of the great Marauder royal houses - the "
+"Berdlings and the Alflings being the other two. Once they were subject to "
+"us, we would control all of Marauderdom."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:62
+msgid ""
+"This subjection, however, would not be easy. We had sent messages to them to "
+"surrender, but they refused, and had several months to prepare for our "
+"attack. Though they had been devastated half a century ago by their Pyrrhic "
+"victory over Caius Regilius in Silvia, they were not weak. Also, they had "
+"claimed as their own the central city that lies in between the lands of the "
+"houses - the Seat of Three Kings."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:83
+msgid "Defeat Gyrdwulf Wylfsson"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:107
+msgid "Seat of Three Kings"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:119
+msgid "We should not waste words here. The Wylflings know we come for battle."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:123
+msgid "True. Very well, let us attack them."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:127
+msgid "Forward!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:138
+msgid ""
+"We are going to kill you, Gyrdwulf, unless you surrender. Come, join us "
+"against the Lavinians. Ours could be a grand alliance!"
+msgstr ""
+
+#. [message]: id=Gyrdwulf
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:142
+msgid "Would you have me a coward?! Die!!!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:146
+msgid "Very well. Let him prove his worth, Alfhelm..."
+msgstr ""
+
+#. [message]: id=Gyrdwulf
+#: Alfhelm/scenarios/1_5_Wylflingdom.cfg:157
+msgid "Aha ha ha ha... *urp*"
+msgstr ""
+
+#. [scenario]: id=1_Epilogue
+#: Alfhelm/scenarios/1_Epilogue.cfg:7
+msgid "Part I Epilogue"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_Epilogue.cfg:37
+msgid "Thus were the three realms of the Marauders once again reunited."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/1_Epilogue.cfg:42
+msgid ""
+"My queen Ranhilde and I ruled from the Seat of Three Kings, and awaited the "
+"day when we could march south to Lavinium."
+msgstr ""
+
+#. [scenario]: id=2_1_Through_the_Mountains
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:7
+msgid "Through the Mountains"
+msgstr ""
+
+#. [side]: type=Arendian Hero, id=Raskirk
+#. [side]: type=Arendian Hero, id=Dunharr
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:46
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:45
+msgid "Arendians"
+msgstr ""
+
+#. [side]: type=Arendian Hero, id=Raskirk
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:50
+msgid "Raskirk"
+msgstr ""
+
+#. [side]: type=Magni Provocator Leonis, id=Praravus
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:67
+msgid "Praravus"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:73
+msgid "PART II (943-950 SI): WE MARCH AGAINST THE RED AND GOLD..."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:77
+msgid ""
+"I have told how I - we - gained lordship over all Marauderdom. But that was "
+"only the beginning of our plans. We never forgot that, though years passed."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:81
+msgid ""
+"Indeed, time seemed to slip by all too quickly. It seemed there was always "
+"more to be done before everything would be ready for the southward march."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:85
+msgid ""
+"Also, I admit, I was not certain I wanted to march against the Lavinians. "
+"Was it not, after all, the Sidhe who had most hurt us?"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:89
+msgid ""
+"It seemed to me we should attack them, not the Lavinians. But Ranhilde said "
+"differently... the debate continued on and off for three years."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:93
+msgid ""
+"Eventually, I agreed to go south. I would leave Erda Bardsson in the Seat of "
+"Three Kings as steward - I could trust him, couldn't I? - and lead the bulk "
+"of the Marauder army to war."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:111
+msgid "Bring Alfhelm to the keep of the Arendian citadel"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:135
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:86
+msgid "Pass of Arendia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:139
+msgid "Darthet"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:143
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:82
+msgid "To Marauderdom"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:147
+msgid "To East Arendia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:151
+msgid "To South Arendia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:155
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:74
+msgid "Dverkenn Tarn"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:167
+msgid "We have come to the Pass of Arendia!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:171
+msgid ""
+"It was only a few leagues from here that your father fell in battle against "
+"the Lavinians."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:175
+msgid ""
+"But the Marauders were victorious in that battle nonetheless. We crushed the "
+"Lavinians and their Arendian allies."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:179
+msgid ""
+"True, but they were not all destroyed. The Arendians will still resist us if "
+"we press southward."
+msgstr ""
+
+#. [message]: id=Raskirk
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:183
+msgid ""
+"You speak the truth too well, man! Come any closer, and we will fight you to "
+"the death!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:187
+msgid "Onward, Alfhelm, to victory!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:191
+msgid ""
+"But there were other enemies of Alfhelm in the area... it seemed the Orcs, "
+"whose raids Alfhelm had put an end to when he became king, were unhappy with "
+"him."
+msgstr ""
+
+#. [message]: id=Praravus
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:196
+msgid "It's time, boys! Get the bastard who stopped our fun in the swamps!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:200
+msgid ""
+"Pay no attention to him. Our goal is to get through this pass and continue "
+"on south."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:216
+msgid "Look, it's a well! But why would a well be put right next to a lake?..."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:220
+msgid ""
+"Oh, I know what this is... it's a way to communicate with the cave-folk. "
+"They don't like coming up here... so whenever someone on the surface wants "
+"to talk to them, they have to either go down to the caves or drop a message "
+"down this well."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:224
+msgid "I see. But we have no business with the dwarves."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:228
+msgid ""
+"Not as yet. But it is better to have them well-disposed towards us... here, "
+"drop some coins down in token of our friendship."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:242
+msgid "Very well."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:255
+msgid "Alas, we have none to give."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_1_Through_the_Mountains.cfg:272
+msgid "Let's get away from these orcs! We go south."
+msgstr ""
+
+#. [scenario]: id=2_2_South_Across_the_Plains
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:7
+msgid "South Across the Plains"
+msgstr ""
+
+#. [side]: type=Arendian Hero, id=Dunharr
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:49
+msgid "Dunharr"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:55
+msgid ""
+"And so we continued on south through Arendia, eventually coming to Rath, one "
+"of the few true cities in that realm."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:60
+msgid ""
+"As we approached the walls, however, a rider came upon us from the north. He "
+"brought news of Sidhe attacks on the eastern forests of Marauderdom."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:64
+msgid ""
+"We had to decide - to go back and defend the homeland, or to press on "
+"towards our eventual goal."
+msgstr ""
+
+#. [objectives]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:82
+msgid "Recall units and put them on the signpost to send aid with Rygar"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:84
+msgid "Kill the enemy leader to take control of Rath"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:108
+msgid "Rath"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:122
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:75
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:112
+msgid "To Ceresia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:116
+msgid "To the Pass of Arendia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:120
+msgid "To Eastern Arendia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:124
+msgid "To Western Arendia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:128
+msgid "To Southern Arendia"
+msgstr ""
+
+#. [unit]: type=Marauder Mounted Axeman, id=Rygar
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:177
+msgid "Rygar Garinsson"
+msgstr ""
+
+#. [message]: id=Rygar
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:181
+msgid ""
+"My lord, the Sidhe Elves have invaded our eastern border. You must return "
+"north to defend our people!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:185
+msgid ""
+"The Sidhe always make raids upon the farmlands. This is no different. We "
+"must press on."
+msgstr ""
+
+#. [message]: id=Rygar
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:189
+msgid ""
+"I insist, my lady, these are no ordinary raids! The thunderblade Vaniyera "
+"leads the Sidhe against us. He shows no mercy, does not retreat. He means to "
+"destroy us."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:193
+msgid ""
+"Vaniyera? I have met him. He fled like a coward near the halls of the "
+"Berdssens."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:197
+msgid ""
+"Indeed. Rider, you must be mistaken. The Sidhe would not attack now, when "
+"our people are united and powerful. Even if they did, there would be no need "
+"for us to return. The Berdssens can handle this easily enough."
+msgstr ""
+
+#. [message]: id=Rygar
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:201
+msgid ""
+"They do not believe so; thus they sent me. My lord, even if you will not "
+"return yourself to fight him, will you send some of the warriors back with "
+"me to do so?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:205
+msgid "I don't think it will be necessary."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:209
+msgid ""
+"Still, we might err on the side of caution and send back some of the "
+"warriors. We did recruit nearly every able-bodied man to come south with us."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:213
+msgid ""
+"Well, I suppose we should be careful and send some of the men back home... "
+"but we might not be able to spare the men."
+msgstr ""
+
+#. [message]: id=Rygar
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:217
+msgid "When you decide, send them back up the path towards me!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:229
+msgid ""
+"Well, now that that is decided, we should go about taking this city. It is "
+"Rath, capital of Arendia. Its walls are tall, but even they cannot compare "
+"to those of Lavinium."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:233
+msgid ""
+"It doesn't look so great. Should I give them a chance to surrender before we "
+"take the city?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:237
+msgid "Always. But they will not take it, and thus they will perish."
+msgstr ""
+
+#. [message]: id=Dunharr
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:241
+msgid "Prepare to meet your fate, invaders from the north!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:245
+msgid "Let us fight. Make it swift."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_2_South_Across_the_Plains.cfg:271
+msgid "I go north to aid Rygar!"
+msgstr ""
+
+#. [scenario]: id=2_3_Ceresia
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:7
+msgid "Ceresia"
+msgstr ""
+
+#. [side]: type=Lavinian Centurion, id=Fulmius D
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:42
+msgid "Ceresians"
+msgstr ""
+
+#. [side]: type=Lavinian Centurion, id=Fulmius D
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:46
+msgid "Fulmius Dartunus"
+msgstr ""
+
+#. [side]
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:57
+msgid "Wolflings"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:71
+msgid ""
+"We continued on towards our goal, stopping and pillaging a few villages, but "
+"encountering few opponents - for the vast wheat-fields of Ceresia are for "
+"the most part uninhabited."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:75
+msgid ""
+"But eventually we came to the great city of the province of Western Ceresia. "
+"We found that another band of Marauders was in the process of sacking it."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:93 Alfhelm/scenarios/2_3_Ceresia.cfg:333
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:366 Alfhelm/scenarios/2_3_Ceresia.cfg:416
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:453 Alfhelm/scenarios/2_3_Ceresia.cfg:594
+msgid "Take the city"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:116
+msgid "Demetrium"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:120
+msgid "To Persephum"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:124
+msgid "To Lavinium"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:78
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:128
+msgid "To Arendia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:130
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:83
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:132
+msgid "To Airiyadom"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:144
+msgid "Surrender, Lavinian dog, or we will capture your city and slay you!"
+msgstr ""
+
+#. [message]: id=Fulmius D
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:148
+msgid "Surely you jest. I will die either way, and I will fight!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:152
+msgid "Let us fight, then."
+msgstr ""
+
+#. [unit]: type=Marauder Scorcher, id=Roln
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:170
+msgid "Roln Woldwylsson"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:255
+msgid "What's this, a Marauder this far south?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:259
+msgid "I could ask the same!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:263
+msgid "Who are these men?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:267
+msgid ""
+"When your father fell in battle, not all his men went back home... some kept "
+"on south. We thought they died, though."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:272
+msgid ""
+"Ha! We kept going, and came almost to Lavinium too! But we weren't fool "
+"enough to try it. It was easy enough to take the big city to the east of "
+"here."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:276
+msgid "What are you saying?..."
+msgstr ""
+
+#. [message]: id=Roln
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:286
+msgid ""
+"We set up a little... kingdom over there. We raid these Ceresians now and "
+"then. Now, specifically. Now get out of our way!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:290 Alfhelm/scenarios/2_3_Ceresia.cfg:308
+msgid ""
+"What? That wasn't completely foolish of them - we'll get more wealth, maybe, "
+"if we make ourselves lords of these lands instead of just burning everything."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:294
+msgid ""
+"Yes, but Roln's still being a fool and burning this city! Roln, we're going "
+"to take this city for our own, like you did in the east! Join us, or at "
+"least don't interfere!"
+msgstr ""
+
+#. [message]: id=Roln
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:298
+msgid ""
+"I won't tolerate rivals, boy! This city burns, and you with it if I can "
+"manage it!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:304
+msgid ""
+"We set up a little... kingdom over there. Our lord is Roln Woldwylsson. We "
+"raid these Ceresians now and then. Now, specifically. Now get out of our way!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:312
+msgid ""
+"Yes, but Roln's still being a fool and burning this city! Tell your lord "
+"we're going to take this city for our own, like you did in the east! Join "
+"us, or at least don't interfere!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:316
+msgid "Ha! This city burns, and you with it if we can manage it!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:329 Alfhelm/scenarios/2_3_Ceresia.cfg:362
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:412 Alfhelm/scenarios/2_3_Ceresia.cfg:675
+msgid "Subdue the rebel Marauders and their lord, Roln Woldwylsson"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:337 Alfhelm/scenarios/2_3_Ceresia.cfg:420
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:457 Alfhelm/scenarios/2_3_Ceresia.cfg:598
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:627 Alfhelm/scenarios/2_3_Ceresia.cfg:679
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:708
+msgid "Put out the wildfires"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:353 Alfhelm/scenarios/2_3_Ceresia.cfg:436
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:473 Alfhelm/scenarios/2_3_Ceresia.cfg:614
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:643 Alfhelm/scenarios/2_3_Ceresia.cfg:695
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:724
+msgid "Allow the fire to reach the citadel"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:403
+msgid "They're lighting fires! Don't let the city burn!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:407
+msgid "We have to put out these wildfires before they burn everything!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:444
+msgid "The fields are burning! What is this?!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:448
+msgid ""
+"I do not know what caused this - but we cannot let it burn the city down."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:512
+msgid "They burned the citadel, now the city is useless to us!"
+msgstr ""
+
+#. [message]: id=Roln
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:585
+msgid "Damn..."
+msgstr ""
+
+#. [message]: id=Roln
+#: Alfhelm/scenarios/2_3_Ceresia.cfg:666
+msgid "The city falls!..."
+msgstr ""
+
+#. [scenario]: id=2_3t_The_Siege_Begins
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:7
+msgid "The Siege Begins"
+msgstr ""
+
+#. [side]: type=Lavinian Imperator, id=Quirinius M
+#. [side]: type=Lavinian Centurion, id=Sextus R
+#. [side]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:49 Alfhelm/scenarios/2_5_Betrayal.cfg:68
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:38
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:55
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:80
+msgid "Lavinians"
+msgstr ""
+
+#. [side]: type=Lavinian Imperator, id=Quirinius M
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:53
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:42
+msgid "Quirinius Maximus"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:48
+msgid ""
+"We had conquered the realm of Western Ceresia. There we stayed for another "
+"year to build up our strength. The dream was now not only to sack Lavinium, "
+"but to truly control the southern lands."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:53
+msgid ""
+"Eventually we felt our strength was enough to take Lavinium, and we went "
+"back on the road."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:58
+msgid ""
+"By this time the inhabitants of Lavinium had word of what we were planning. "
+"When we got to within a few miles of the city they sent out an embassy to "
+"greet us."
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:126
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:79
+msgid "To Nemidia"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:134
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:87
+msgid "To (Port City)"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:138
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:91
+msgid "To (SE???)"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:142
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:95
+msgid "To (NW???)"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:146
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:99
+msgid "Inner City"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:150
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:103
+msgid "West Lavinium"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:154
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:107
+msgid "East Lavinium"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:158
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:111
+msgid "South Lavinium"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:162
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:115
+msgid "North Bridge"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:166
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:119
+msgid "South Bridge"
+msgstr ""
+
+#. [side]: type=Lavinian Centurion, id=Sextus R
+#. [unit]: type=Lavinian Centurion, id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:72
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:140
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:218
+msgid "Sextus Raetius"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:144
+msgid ""
+"Hail, Alfhelm son of Alfric the Conqueror! Greetings from Quirinius Maximus, "
+"Imperator, Lord of the Great Empire of Lavinium, Commander of the Twelve "
+"Legions!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:148
+msgid ""
+"Well this is a grand welcome. Do you come to cede the crown of the Imperator "
+"to us?"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:152
+msgid ""
+"No, but I, speaking for the Imperator, would like to make you an offer. We "
+"will pay tribute to you, whatever price you name, if you will leave here, go "
+"back to Ceresia or even back to the far north, and not attack us. Leave us "
+"in peace."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:156
+msgid "What sort of tribute?"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:161
+msgid ""
+"The Imperator is prepared to offer two thousand pounds of gold per year, in "
+"addition to the four thousand we can give you right now. If you want to "
+"waste time deciding the specific numbers, we can."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:165
+msgid "A tempting offer."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:169
+msgid ""
+"This gold you offer we could take for ourselves after we take your city!"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:173
+msgid ""
+"True. But you will lose many men if you do so. Do not pretend that our city "
+"is undefended. Our walls are high, our gates are strong."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:177
+msgid ""
+"We did not come here seeking gold, but glory. And even if we did come for "
+"the former; if you are prepared to so easily give us this gold, you must "
+"have much more behind those vast walls!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:181
+msgid "Wisely spoken."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:185
+msgid ""
+"We do not make this offer lightly! It will drain our treasuries. Put we do "
+"what we must to protect our people."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:190
+msgid ""
+"I always knew these Lavinians were but merchants in their hearts. Harn, "
+"would you have us buy their coward's wares?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:194
+msgid "I would not."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:198
+msgid "You, Lavinian, get back to your master."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:202
+msgid "I... I... very well."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:222
+msgid ""
+"As I said, I would not advise you to take the Imperator's offer. But he is "
+"right, his city is strong against attack. We cannot simply attack it and "
+"hope to emerge unscathed."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:226
+msgid ""
+"We would not emerge unscathed, of course not. This is war. But I see your "
+"point..."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:230
+msgid "It seems to me we ought to siege the city."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#. [message]: id=Gjaran
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:282
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:371
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:149
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:234
+msgid "What?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:238
+msgid ""
+"Set up camp here, do not let the Lavinians come out. Attack them, "
+"occasionally, but never try to take the walls. Eventually they will have to "
+"surrender to us. Surrender is better than slaughter."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:242
+msgid ""
+"A siege seems kind of... cowardly. If I was a coward I would take "
+"Quirinius's gold."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:246
+msgid "How long would such a siege take?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:250
+msgid ""
+"A few years, perhaps. Probably less. We will most likely be unable to stop "
+"everything from coming in and out, and we are less experienced than the "
+"Lavinians. It will not last only a few months as theirs do."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:254
+msgid "What, Harn, you do not find the idea craven?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:258
+msgid ""
+"No, I do not. And a few years sounds reasonable to me. We have waited seven "
+"years already."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_3t_The_Siege_Begins.cfg:262
+msgid "Very well... if the two of you think it wise, we will have a siege."
+msgstr ""
+
+#. [scenario]: id=2_4_A_Fizzling_Torch
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:7
+msgid "A Fizzling Torch"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:94
+msgid ""
+"The siege dragged on for four long years. The Lavinians did not seem to grow "
+"weaker."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:98
+msgid ""
+"Ranhilde said that they were about to crumble. And repeated herself a month "
+"later, and a month after that."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:102
+msgid ""
+"Eventually I stopped believing her. I started thinking of other ways to "
+"bring the city down - though Ranhilde would not hear of it, insisting the "
+"siege would work."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:106
+msgid ""
+"It seemed to me that the city must have a source of food within its walls. "
+"If we could destroy that, it would be forced to surrender."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:110
+msgid ""
+"I got together a group of hardy boatsmen and told them of my plan. We would "
+"go upriver of Lavinium, come silently to the gates of the city, go under the "
+"wall that runs over the water, find the stores, burn them, and leave out the "
+"east exit before the guard there was warned to lower the sluicegates."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:114
+msgid ""
+"It may seem a foolish plan, but I trusted my sailors, and they said it was "
+"possible. And I came south for glory. Through this plan, I would either gain "
+"it, or die."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:131
+msgid "Enter Lavinium through the western rivergate"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:135
+msgid "Start the fire with Alfhelm"
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:139
+msgid "Exit Lavinium through the eastern rivergate"
+msgstr ""
+
+#. [message]: role=Seaman
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:228
+msgid ""
+"Our plan is to get in and out before the Lavinians have time to react. We "
+"only have until sunrise, I reckon, before the Lavinians completely overwhelm "
+"us."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:232
+msgid "That will be long enough."
+msgstr ""
+
+#. [message]: role=Seaman
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:236
+msgid "If it is, it is."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:240
+msgid ""
+"Come on, let's get this done. I'll carry the torch, once we get there I'll "
+"light the fire."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:255
+msgid ""
+"The guards don't look alert... we may be able to sneak by them, but if we "
+"attack them the guard will be awakened."
+msgstr ""
+
+#. [message]
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:271
+msgid "Alert! Alert! The marauders are coming in through the river!"
+msgstr ""
+
+#. [unit]: type=Nemidian Hippopotamus, id=Aelyntus D
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:280
+msgid "Aelyntus Daendylus"
+msgstr ""
+
+#. [message]: id=Aelyntus D
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:305
+msgid "We'll do what we can, but it'll be some time before all is ready!"
+msgstr ""
+
+#. [message]: id=Aelyntus D
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:317
+msgid "The guard will come... errghh..."
+msgstr ""
+
+#. [unit]: type=Lavinian Centurion, id=Dectus S
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:344
+msgid "Dectus Silvestrus"
+msgstr ""
+
+#. [message]: id=Dectus S
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:349
+msgid "The city is being burned! Quickly, we must put out the fire!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:353
+msgid "I think that means we should get out here, now!"
+msgstr ""
+
+#. [unit]: type=Nemidian Hippopotamus, id=Rensyllaeus D
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:360
+msgid "Rensyllaeus Daendylus"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:404
+msgid "We ought to take these bridges down..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:417
+msgid "Burn, burn!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:434
+msgid "Look... the wind has picked up the fire. It is spreading, quickly!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:455
+msgid "The foodstuff is undoubtedly in the citadel..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:468
+msgid "Good thing we already set a fire there!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:474
+msgid "We ought to burn it down!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:491
+msgid "Time for a fire..."
+msgstr ""
+
+#. [message]: type=Peasant
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:516
+msgid "The Marauders are attacking! AUGH!!!"
+msgstr ""
+
+#. [message]: type=Praetorian Guard
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:562
+msgid "The citadel is under attack! Defend the emperor!"
+msgstr ""
+
+#. [filter]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:597
+msgid "Augh!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_4_A_Fizzling_Torch.cfg:620
+msgid "We have done what we can to the Lavinians' food. Let us leave!"
+msgstr ""
+
+#. [scenario]: id=2_5_Betrayal
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:8
+msgid "Betrayal (Lavinium Falls)"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:85
+msgid ""
+"I returned to our camp to inform Harn and Ranhilde what the smoke rising "
+"from the city signified. And to prepare for the battle that was soon to come."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:101
+msgid "Kill the Imperator Quirinius Maximus"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:107
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:170
+msgid "Marauder Camp"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:199
+msgid ""
+"Within the walls, Imperator Quirinius Maximus debated with the advisor "
+"Sextus Raetius."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:203
+msgid ""
+"Your highness, the fire has devastated the city. We must surrender to "
+"Alfhelm or starve to death."
+msgstr ""
+
+#. [message]: id=Quirinius M
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:207
+msgid ""
+"The Lavinian Empire has endured for over nine hundred years. I will not be "
+"responsible for its downfall."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:211
+msgid "We have been over this before. The Empire has already fallen."
+msgstr ""
+
+#. [message]: id=Quirinius M
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:215
+msgid ""
+"It has not fallen as long as I sit on the throne of my ancestors. And "
+"Lavinium still stands. It will stand until it is defeated. It will not "
+"surrender."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:219
+msgid "Alfhelm already has us beat!"
+msgstr ""
+
+#. [message]: id=Quirinius M
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:223
+msgid ""
+"The marauder dogs will never enter this city! We are done here, Sextus. We "
+"do not surrender! There is one other way - we must fight. This is our plan."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:227
+msgid "Yes, your highness..."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:234
+msgid ""
+"I can't let him doom our city for the sake of his empire... something must "
+"be done..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:244
+msgid "In the Marauder camp, meanwhile..."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:248
+msgid ""
+"So you mean you went into Lavinium, burned part of the city, destroyed their "
+"supplies, and got out alive? Brilliant!"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:252
+msgid ""
+"No it's not! Don't you remember what fire did in Ceresia? We don't want to "
+"burn the city to the ground!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:256
+msgid "What, are you saying I shouldn't have done it?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:260
+msgid ""
+"Of course not! Why didn't you consult me first? I didn't get you to marry me "
+"so you could go destroy Lavinium when we were about to conquer it!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:265
+msgid "I - wait, what? You got me to marry you?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:270
+msgid "..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:274
+msgid "What did she mean, Harn?"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:278
+msgid ""
+"Mmm... Well... You see... When we were in Berdssenhold, those years ago..."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:286
+msgid ""
+"I asked Harn to convince you to marry me. It had to happen - everything Harn "
+"told you was true."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:290
+msgid "So why did you pretend to not know?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:294
+msgid "I... had my reasons."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:298
+msgid "This is not acceptable! I can't trust either of you!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:302
+msgid ""
+"Well... yes, you're right, if I wasn't involved I would tell you the same."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:306
+msgid "So what will you do, king Alfhelm?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:310
+msgid "Leave, both of you. Go back to Marauderdom."
+msgstr ""
+
+#. [message]: id=Harn
+#. [message]: id=Ranhilde
+#. [message]: id=Quirinius M
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:466
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:314
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:379
+msgid "What?!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:318
+msgid ""
+"I can't have you here if I can't trust you. Go back to Erda Bardssen and do "
+"your lying to him."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:322
+msgid "I..."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:326
+msgid "Very well, King. Farewell, for now. Kill the Lavinian dogs."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:354
+msgid ""
+"Well... the Lavinians seem to have realized they can't stay in their city "
+"forever - they're preparing for battle. It's time to fight."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:367
+msgid "Wait! Wait!"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:375
+msgid "We surrender!"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:383
+msgid "You're mad to fight them, Quirinius! You're no longer my emperor!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:387
+msgid ""
+"Very well. I accept your surrender. Help me defeat this Quirinius, and I'll "
+"leave you your city intact. Fail me, and it burns to the ground."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:391
+msgid "I accept your terms."
+msgstr ""
+
+#. [message]: id=Quirinius M
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:395
+msgid ""
+"You will pay for this, Sextus Raetius. You will be remembered as the man who "
+"led the Empire to destruction!"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:399
+msgid "The empire was destroyed long before I was born."
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:414
+msgid "Argh..."
+msgstr ""
+
+#. [message]: id=Quirinius M
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:418
+msgid "So shall all traitors perish!"
+msgstr ""
+
+#. [message]: id=Quirinius M
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:433
+msgid "The empire has fallen..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:437
+msgid "Lavinium is ours!"
+msgstr ""
+
+#. [message]: id=Sextus R
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:446
+msgid "And what do you plan to do with it?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:450
+msgid ""
+"If you are wondering if I will keep my promise - yes, I will. Why would I "
+"destroy this wondrous city when I can possess it? But as for you - I leave "
+"you to your people. What they choose to do to you, I do not care. They may "
+"make you king. They may kill you."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/2_5_Betrayal.cfg:456
+msgid ""
+"I see no reason not to keep my vow to that traitor Lavinian. This city is "
+"too great to destroy."
+msgstr ""
+
+#. [scenario]: id=2_Epilogue
+#: Alfhelm/scenarios/2_Epilogue.cfg:7
+msgid "Part II Epilogue"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_Epilogue.cfg:37
+msgid ""
+"Lavinium was now mine. I spent several months there, as the city was "
+"rebuilt, slowly."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_Epilogue.cfg:41
+msgid ""
+"I had conquered, it seemed, all of the lands of Lavinia, Ceresia, Arendia... "
+"but I could not retain both them and my homeland. The Arendian Mountains "
+"stood in the way, dividing my realm in half. I could not expect to stay king "
+"of my own people if I remained in the south."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_Epilogue.cfg:45
+msgid ""
+"And I wearied of the southlands. It barely frosted over that winter. I loved "
+"the northern forests, not these farms. So in the end, I decided to return to "
+"marauderdom, leaving Lavinium in the hands of a loyal supporter as I had "
+"done in Ceresia. I stayed in Lavinium as king but a single year."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/2_Epilogue.cfg:49
+msgid ""
+"I would not let myself wonder whether I also returned in order to see once "
+"more Ranhilde."
+msgstr ""
+
+#. [scenario]: id=3_0t_The_Well
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:9
+msgid "The Well"
+msgstr ""
+
+#. [side]
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:43
+msgid "Cavernei"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:48
+msgid "PART III (951-953 SI): THE DARK DEPTHS OF THE FOREST..."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:52
+msgid ""
+"The journey back to the Seat of Three Kings went well, until we came to the "
+"Pass of Arendia. There, we met a mounted messenger flying south."
+msgstr ""
+
+#. [unit]: type=Marauder Mounted Axeman, id=Gjaran
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:99
+msgid "Gjaran Gjallansson"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:105
+msgid "Stop! What message are you bearing and for whom?"
+msgstr ""
+
+#. [message]: id=Gjaran
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:109
+msgid ""
+"I bring an urgent message from Queen Ranhilde to the King - I mean, to you, "
+"Your Highness."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:113
+msgid "Oh? What does this message say?"
+msgstr ""
+
+#. [message]: id=Gjaran
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:117
+msgid "It says:"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:122
+msgid ""
+"To the King Alfhelm, from his Queen; The Sidhe Lord Vaniyera has been "
+"attacking our lands with a strength never before seen. I am leading an army "
+"east to confront the elves, but I do not expect victory. When you receive "
+"this, please come back to the Seat of Three Kings and defend your homeland! "
+"This message was sent on the first day of autumn in the nine-hundred-first "
+"and final year of the Lavinian Empire."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:126
+msgid "What? It's almost winter already! We must get back, quickly."
+msgstr ""
+
+#. [message]: id=Gjaran
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:130
+msgid "Indeed."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:137
+msgid ""
+"Wait - Ranhilde said that it was the Thunderblade Vaniyera who led the "
+"attacks on our people, yes?"
+msgstr ""
+
+#. [message]: id=Gjaran
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:141
+msgid "Indeed. He was present personally at many of the battles."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:145
+msgid ""
+"I see... here, Gjallansson, go back north and tell Erda Bardssen that I am "
+"returning and to send forces to Portum Frigae. That's where I'm headed. I "
+"have business to attend to here."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:153
+msgid "Go, now!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:161
+msgid "Now, we shall see if the stories are true..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:167
+msgid ""
+"Alfhelm dropped a gold coin into the well along with the following note:"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:172
+msgid ""
+"TO THE HIDDEN FOLK. I, Alfhelm King of the Marauders, have business to "
+"discuss with you."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:177
+msgid "Alfhelm waited there for a night and a day, and then..."
+msgstr ""
+
+#. [unit]: type=Cavernei Runemaster, id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:184
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:211
+msgid "Gali"
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:188
+msgid "What is it that you desire, Alfhelm son of Alfric?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:192
+msgid ""
+"I have heard that you dwarves forged the thunderblades of the Sidhe. Can you "
+"tell me if this is true?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:196
+msgid ""
+"Yes, it is. That is no secret. But if you called me up to the surface to ask "
+"me that question, you have wasted my time. I do not look kindly upon those "
+"who waste my time."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:200
+msgid ""
+"No, no... I have a proposition for you. You made the thunderblades. And no "
+"elf has ever fallen in battle while wielding one, unless slain by treachery "
+"or arrows from afar."
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:204
+msgid ""
+"That is due as much to the skill of the Sidhe at swordcraft as it is to our "
+"own metalwork."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:208
+msgid ""
+"But you admit your metalwork makes a difference. Well, what I want is a "
+"sword that can defeat a Sidhe Thunderblade in single combat."
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:212
+msgid "Swords do not defeat people in battle."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:216
+msgid ""
+"I want a sword that I can use to defeat Vaniyera. He slew my family and "
+"wages war on my homeland. Do you understand what I am asking for? Can you "
+"give me such a sword?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:220
+msgid "The only language that matters to the dwarves is that of gold."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:224
+msgid ""
+"I have no shortage of gold. Any price you name, I will pay - for the sword. "
+"Do you have one?"
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:228
+msgid "No, I do not. But I can make one. For three thousand pounds of gold."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:232
+msgid ""
+"That's... that's nearly a quarter of the gold we brought out of Lavinium!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:236
+msgid ""
+"I can have the sword to you before you fight Vaniyera. Do not come to us "
+"looking for it; we will bring it to you. The price is final. Do we have an "
+"agreement?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:240
+msgid "I... yes. We have a deal."
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_0t_The_Well.cfg:244
+msgid "Very well. Farewell, Alfhelm son of Alfric."
+msgstr ""
+
+#. [scenario]: id=3_1_The_New_Border
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:7
+msgid "The New Border"
+msgstr ""
+
+#. [side]: type=Wild Elf Warmage, id=Elyvuin
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:45
+msgid "Elyvuin"
+msgstr ""
+
+#. [unit]: type=Marauder Pillager, id=Wyborg
+#. [side]: type=Marauder Pillager, id=Wyborg
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:134
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:62
+msgid "Wyborg Bjorwulfsson"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:68
+msgid ""
+"We set a course northeastward towards Portum Frigae, the old Silvian city. "
+"There I hoped to raise a new army and go against the elves."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:71
+msgid "When we got there, however, the city was in no position to aid us."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:90
+msgid "Bring Alfhelm to the citadel of Portum Frigae"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:98
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:190
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:222
+msgid "Death of Wyborg Bjorwulfsson"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:110
+msgid "To Old Silvium"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:114
+msgid "Portum Frigae"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:120
+msgid ""
+"What is this? The fields are untended... can it be that the Sidhe are "
+"already besieging the city?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:137
+msgid ""
+"It is as we feared - the elves have attacked! Quick, we rally at the castle "
+"- then we must crush this Sidhe warlord."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:142
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:182
+msgid ""
+"Bring Alfhelm to the citadel of Portum Frigae, then defeat the Sidhe leader"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:161
+msgid "What is this, someone outside the walls besides the damned elves?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:165
+msgid "I am Alfhelm Alfricsson, your king! I return victorious from Lavinium."
+msgstr ""
+
+#. [message]: id=Wyborg
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:169
+msgid ""
+"Lot of good that does us here! The elves have already taken everything east "
+"of the river. The lord of the city, Wyborg Bjorwulfsson, only barely manages "
+"to defend the rest."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:173
+msgid "This is unacceptable... we must drive these Sidhe from our lands."
+msgstr ""
+
+#. [message]: id=Wyborg
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:205
+msgid "My lord, the resources of the city are at your disposal."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:214
+msgid "Defeat the Sidhe leader"
+msgstr ""
+
+#. [message]: id=Elyvuin
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:235
+msgid "Rage of winter, choke this dog with ice and snow! I perish!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:246
+msgid "We are victorious!"
+msgstr ""
+
+#. [message]: id=Wyborg
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:250
+msgid "Until winter comes and slays us as he promised."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:254
+msgid "Winter? What is that to us? More firewood?"
+msgstr ""
+
+#. [message]: id=Wyborg
+#: Alfhelm/scenarios/3_1_The_New_Border.cfg:258
+msgid ""
+"I wouldn't scoff at a Sidhe weather-threat. We'll probably be frozen in by "
+"tomorrow morning."
+msgstr ""
+
+#. [scenario]: id=3_2_A_Harsh_Winter
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:7
+msgid "A Harsh Winter"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:89
+msgid ""
+"Wyborg was, alas, accurate in his augury. A fell blizzard came upon the city "
+"that night, and we were frozen in. I would almost have believed that the "
+"Frost Elves had turned against us as well. It would have been madness to "
+"attempt any expedition east in that weather."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:92
+msgid ""
+"I was forced to wait out the snow - it would take three months at least "
+"before it melted. That was time I could ill afford to waste. According to "
+"Wyborg Ranhilde and Harn had been in the city several weeks ago, but "
+"immediately set out east, and no news had come back of their fate."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:95
+msgid ""
+"But the worst was yet to come. In the second month of my stay in Portum "
+"Frigae, great white bears from the north were seen in the forests west of "
+"the city. To stay warm we needed firewood, but none would dare to venture "
+"out while the bears haunted their steps."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:110
+msgid "Clear the forest of ice bears"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:118
+msgid "Allow the bears to cross the bridge"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:140
+msgid ""
+"Are you certain none will face the bears? What are you Wylflings, cowards?"
+msgstr ""
+
+#. [message]: id=Wyborg
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:144
+msgid ""
+"I am no coward, king, but to face those bears in this weather is certain "
+"death."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:148
+msgid ""
+"For some, perhaps, but we are the warriors who conquered the Imperial City. "
+"We will not stand idly by and let these bears terrorize us!"
+msgstr ""
+
+#. [message]: id=Wyborg
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:152
+msgid ""
+"Very well, you may attempt to destroy the bears if you may. But I will not "
+"sacrifice myself in this struggle."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:156
+msgid "I would not want such a weakling!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:165
+msgid ""
+"It would be best not to come out in too strong a force - that would only "
+"expose more of us to weakness. A force of a few stout archers should "
+"suffice..."
+msgstr ""
+
+#. [message]: speaker=unit_second
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:261
+msgid "RUAAARRRRRRW!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:278
+msgid ""
+"That was the last of the bears, I think... I still wonder what brought them "
+"here; I suppose we will never know."
+msgstr ""
+
+#. [unit]: type=Frost Elf Ice Dancer, id=Friysr
+#. [side]: type=Frost Elf Ice Dancer, id=Friysr
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:297
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:96
+msgid "Friysr"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:304
+msgid "Well met, Alfhelm!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:308
+msgid "Uhm... well met,..?"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:312
+msgid ""
+"I am Friysr of the Issaelfr. I have been tracking these bears south for "
+"several weeks. I was on a hunt to slay them, but it seems you have done so "
+"already."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:316
+msgid ""
+"I did not come here only to slay ice bears, though. The lords at Alfenheim "
+"have heard of your plight. They remember Ranhilde when she studied there. We "
+"wish to offer you our assistance in finding her."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:320
+msgid "Your help is welcome. Alas we did not meet sooner. Damn this winter!"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:324
+msgid ""
+"Do not curse it! The snow will soon thaw, but the ice will break sooner, and "
+"we can leave by boat in only a few days. We may actually gain a few days. "
+"Remember, the Sidhe were immobilized just as you were."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:328
+msgid "If you claim it. Well, we must prepare for our departure..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/3_2_A_Harsh_Winter.cfg:350
+msgid "Hwaraagh!!"
+msgstr ""
+
+#. [scenario]: id=3_3_Unexpected_Aid
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:7
+msgid "Unexpected Aid"
+msgstr ""
+
+#. [side]: type=Wild Elf Tempest, id=Ayslinn
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:54
+msgid "Ayslinn"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:109
+msgid ""
+"So the Issaelfr brought some of their great ice-breaking ships into the "
+"harbor of Portum Frigae."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:112
+msgid ""
+"Two days later, we boarded and set out east along the coastline. Soon we "
+"came to the river that runs from Mount Stormkeep to the sea. There we made "
+"to disembark."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:129
+msgid "Defeat the Sidhe coastal guardians"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:95
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:288
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:328
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:396
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:430
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:137
+msgid "Death of Friysr"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:115
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:127
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:149
+msgid "Stormcloud River"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:189
+msgid ""
+"Quick! Out of the boats. We must get to shore before the elves discover our "
+"presence here."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:193
+msgid ""
+"I fear any attempt at secrecy is hopeless. The Sidhe are sure to be on guard "
+"for our coming."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:197
+msgid "Then what hope do we have?"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:201
+msgid ""
+"We landed here because it is the least defended place on the shore. It is "
+"low tide now, and you can walk to land, but if the tide rises and you are "
+"trapped here, we will have to wait many hours. So they would not expect us "
+"to land here - it is our best chance. So yes... there is some hope of "
+"suprise. But not much."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:205
+msgid "How long do we have before we are trapped?"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:209
+msgid ""
+"At least six hours, I'd say. After that, this island will be isolated from "
+"the mainland... if we're still on it, we will live for a time, but once the "
+"waters fall again the Sidhe will swarm over us and we will perish."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:224
+msgid "Look, Marauders have landed on the beach!"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:228
+msgid "Any element of surprise is lost now. Attack them!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:276
+msgid ""
+"Damn! Reinforcements will surely arrive soon, and drive us back into the "
+"sea! We must hurry!"
+msgstr ""
+
+#. [message]: id=Ayslinn
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:284
+msgid "Now we have you, dog!"
+msgstr ""
+
+#. [message]: id=Ayslinn
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:298
+msgid "Aiyy..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:302
+msgid ""
+"We have made it to land, at least, and are safe for now. We may rest the "
+"remainder of the night, but soon we must go south!"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_3_Unexpected_Aid.cfg:306
+msgid "This plan is good. I will stay with you, for a time."
+msgstr ""
+
+#. [scenario]: id=3_4_The_Western_March
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:7
+msgid "The Western March"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:63
+msgid ""
+"We went south into the forests of Sidhe - the Western March, as they called "
+"it, of that realm. The land of Vaniyera, my enemy."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:66
+msgid ""
+"Rumors reached us of a band of men, trapped in the dark woods, snowed in, in "
+"constant combat with the elves."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:69
+msgid ""
+"We were told that they had, unbelievably, fought against the Sidhe for "
+"several weeks, undefeated, coming deep into the heart of the realm. When the "
+"snow came the fighting had ceased, for a time, and only now was it clearing."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:72
+msgid ""
+"This raised hope that they still lived. But if they did not... well, whether "
+"they lived or no, I planned to fight Vaniyera to the death. Though, without "
+"the sword the dwarves had promised me, it seemed unlikely I would survive."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:87
+msgid "Find the source of the sounds of battle"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:111
+msgid "Sidhe Castle"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:119
+msgid "Windy Stream"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:123
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:127
+msgid "Darkwater Stream"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:177
+msgid "Damn these forests... I can't see anything clearly."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:181
+msgid "The enemy may be right in front of us. In fact... listen..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:186
+msgid "Far off in the distance, sounds of battle could be heard..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:265
+msgid ""
+"That must be Harn and Ranhilde's men! They can't last much longer against "
+"these elves. Attack!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:271
+msgid ""
+"Alfhelm! So you've arrived! Hurry! The enemy is one you know well - "
+"Vaniyera. The Thunderblade."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:275
+msgid "Let us slay him..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:305
+msgid ""
+"There's some marauder warriors in the distance... it must be Harn and "
+"Ranhilde's men. They may need our help."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:311
+msgid "Alfhelm! So you've arrived! Hurry, the battle has already begun."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:320
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:422
+msgid "Defeat elven leader"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:344
+msgid "You've returned, I see..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:348
+msgid "Yes."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:367
+msgid "Who is the enemy, then? I see... More elves!"
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:371
+msgid "Yes, but -"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:375
+msgid "Ah, son of Alfric, we meet again..."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:379
+msgid "They are led by Vaniyera. The Thunderblade."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:383
+msgid "I expected to face him eventually... Prepare to die, sidhe coward!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:413
+msgid ""
+"The elves are abroad in the forest! I suppose that was no surprise. Come, "
+"let us fight with them. Perhaps Harn and Ranhilde are nearby."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:462
+msgid ""
+"Wait! No one touch the elf but me. Vaniyera - I would face you in single "
+"combat. Will you accept my challenge?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:470
+msgid "Do not interfere! Vaniyera - do you accept?"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:474
+msgid ""
+"Do I accept, you ask? No, I will not be destroyed as my master Leithan was, "
+"and my king Vanimaro before him! What fool do you think I am?"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:478
+msgid ""
+"What? You Sidhe claim to be the most noble of all peoples, and yet you do "
+"not accept my challenge?!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:482
+msgid ""
+"No, I do not. Nor will I wait here for you to swarm over my corpse. Goodbye "
+"once more, Alfhelm the treacherous! And receive a gift in our parting!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4_The_Western_March.cfg:526
+msgid "Wha -"
+msgstr ""
+
+#. [scenario]: id=3_4t_It_Doesnt_Matter_Anyways
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:7
+msgid "It Doesn't Matter Anyways"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:38
+msgid ""
+"Vaniyera had struck down Ranhilde with a curse and fled. She lived, but not "
+"for long."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:41
+msgid ""
+"That night we - Harn, Friysr, and I - held a council. Harn was made to "
+"understand why I had to duel Vaniyera. But I did not tell him about the "
+"sword that had not yet arrived."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:57
+msgid ""
+"But all of this is useless without knowing where Vaniyera heads for. He "
+"could be anywhere."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:61
+msgid ""
+"No... the magic of Vaniyera is, in large part, that of shadows and illusion. "
+"He did not disappear, he merely shrouded himself in darkness and walked "
+"through the midst of your people."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:65
+msgid "You mean...?"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:69
+msgid ""
+"Vaniyera is close. We have slain his best warriors, and he cannot regroup "
+"and attack us by himself. He most likely makes for Mount Stormkeep."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:73
+msgid "Then let us chase after him!"
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:77
+msgid ""
+"We must wait. Night has fallen, and the men need rest. They cannot march for "
+"days upon end. In any case, Vaniyera was weakened when he left - he most "
+"likely has not set out on his journey yet, but is hidden in the trees "
+"somewhere. We cannot find him easily until he begins moving."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:81
+msgid ""
+"Very well, we wait if we must. But I like it not, and I cannot sleep when "
+"victory and death both lie so close."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:85
+msgid "If you insist, my lord. But I will retire for the night."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:89
+msgid "As will I."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:134
+msgid "So... Alfhelm, what is your plan?..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:138
+msgid "I go tomorrow morning to hunt Vaniyera. I will avenge your death."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:142
+msgid ""
+"I am not dead *cough* yet... though his curse is strong, I cannot fight it "
+"much longer..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:146
+msgid "Yes, well."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:150
+msgid ""
+"I must know... how do you expect to defeat the elf-lord?... He is more "
+"powerful than any man... Even if he is a coward..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:154
+msgid ""
+"I have made an agreement with the hidden folk. They will deliver me a sword "
+"that will best his. But it has not yet arrived."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:158
+msgid "That could work... but do not trust the cavernei..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:162
+msgid "I have no choice."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:166
+msgid "Perhaps. Well..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:170
+msgid "Yes?"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:174
+msgid "You did right in Lavinium."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:178
+msgid "What? That was foolishness. I -"
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:182
+msgid "Wise, foolish, it doesn't matter anyways... farewell, Alfhelm."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:199
+msgid "Damn those dwarves!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:216
+msgid ""
+"So do you no longer desire your sword? Or do you say that which you do not "
+"mean? You Men seem to do that often. It is a flaw in your people."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:220
+msgid "You have returned!"
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:224
+msgid ""
+"'I can have the sword to you before you fight Vaniyera'. You are about to "
+"fight Vaniyera. I am of the hidden folk. I keep my word."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:228
+msgid "I am sorry I doubted you."
+msgstr ""
+
+#. [message]: id=Gali
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:232
+msgid ""
+"You are being honest. Good. Here is the sword. Forged of metal from the "
+"depths of the earth. It has few ornaments - you gave us little time. But it "
+"will do its job."
+msgstr ""
+
+#. [effect]: type=blade
+#. [object]: id=stormbreaker
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:236
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:245
+msgid "Stormbreaker"
+msgstr ""
+
+#. [object]: id=stormbreaker
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:239
+msgid ""
+"Stormbreaker was forged by the Cavernei, the Hidden Folk, at the request of "
+"Alfhelm Lord of the Marauders. Its power is such that it will not shatter "
+"when struck with a thunderblade of the Sidhe, but rather will destroy the "
+"opposing sword."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_4t_It_Doesnt_Matter_Anyways.cfg:255
+msgid ""
+"That is all I ask. That you for your aid, Runesmith Gali. I am satisfied."
+msgstr ""
+
+#. [scenario]: id=3_5_Old_Friends
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:8
+msgid "Old Friends"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:90
+msgid ""
+"Vaniyera was gone, but not vanished this time. We knew he would flee "
+"eastward towards Stormkeep."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:93
+msgid ""
+"The next morning we set off in pursuit... all save Harn and Friysr, who "
+"remained behind to secure the fortress of Vaniyera, and Ranhilde, who had "
+"died."
+msgstr ""
+
+#. [objective]: condition=win
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:107
+msgid "Attack Vaniyera with Alfhelm"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:115
+msgid "Cowardly attack Vaniyera with other units"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:131
+msgid "Mount Darkwater"
+msgstr ""
+
+#. [label]
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:135
+msgid "Castle of Vaniyera"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:141
+msgid ""
+"We have almost caught him! Thunderblade Vaniyera, acknowledge me and accept "
+"my challenge of single combat."
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:145
+msgid ""
+"Single combat? You mean the single combat that gave my master Leithan four "
+"arrows in his back? Ha!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:149
+msgid "You will duel me, whether you will or no!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:154
+msgid "(It is strange that he is so cowardly now of all times...)"
+msgstr ""
+
+#. [message]
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:165
+msgid "Iletaidemei 'a etaucavei!"
+msgstr ""
+
+#. [message]: role=terrified
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:176
+msgid "Gods! What is that beast?!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:180
+msgid ""
+"Not a beast; a fallen spirit come back to life. This is fearsome magic... "
+"but it will not help you, Vaniyera!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:196
+msgid "Do not attack him!"
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:213
+msgid "I have caught you, Vaniyera! Now, will you face me?"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:217
+msgid ""
+"It seems I have no choice. Very well - draw sword! I'll kill you like I did "
+"your bitch!"
+msgstr ""
+
+#. [message]: id=Vaniyera
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:228
+msgid "My sword... it has broken..."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_5_Old_Friends.cfg:239
+msgid "Well... my lady has been avenged."
+msgstr ""
+
+#. [scenario]: id=3_Epilogue
+#: Alfhelm/scenarios/3_Epilogue.cfg:8
+msgid "Part III Epilogue"
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:37
+msgid ""
+"Stormbreaker had broken the Thunderblade. Vaniyera had fallen. Revenge was "
+"mine."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:40
+msgid ""
+"And yet... I had lost my honor. I had failed to protect my country, my "
+"people, and my queen. I would not blame Erda Bardssen if - as I suspected - "
+"he would refuse to hand the throne back over to one such as myself."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:43
+msgid ""
+"Nor did I care. I no longer desired to rule from the Seat of Three Kings. "
+"The kingship, really, had always been but a means to an end, and now both "
+"ends were reached. I had no more need of it."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:46
+msgid ""
+"But I had lost my honor. I could not simply return to the city and hand the "
+"reins to the Bardlings. I was to blame for innumerable deaths, and the "
+"people would punish me if I did not punish myself."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:49
+msgid ""
+"So Harn Bernson counselled me. Accept responsibility and die reclaiming "
+"honor."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:52
+msgid ""
+"Friysr of the Issaelfr said the same. The life of man is short besides, he "
+"said, and what difference would a few years make? I have lived out almost "
+"half of my three-score and ten."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:55
+msgid ""
+"But I will not do this thing. Neither will I return with Harn to Marauderdom "
+"to face the scorn of the people."
+msgstr ""
+
+#. [part]
+#: Alfhelm/scenarios/3_Epilogue.cfg:58
+msgid ""
+"I have heard that there is an island at the mouth of the River Arendia that "
+"none live on, man or elf. I make my way there, to live out the remainder of "
+"my life."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_Epilogue.cfg:71
+msgid ""
+"I have lived through snow and fire; through forest, swamp and farmland I "
+"have come."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/3_Epilogue.cfg:75
+msgid "But I will roam no more, in this place I will abide until I perish."
+msgstr ""
+
+#. [message]: id=Alfhelm
+#: Alfhelm/scenarios/utils/utils.cfg:63
+msgid "Gahhh..."
+msgstr ""
+
+#. [message]: id=Harn
+#: Alfhelm/scenarios/utils/utils.cfg:76
+msgid "Argh!..."
+msgstr ""
+
+#. [message]: id=Ranhilde
+#: Alfhelm/scenarios/utils/utils.cfg:89
+msgid "Eei..."
+msgstr ""
+
+#. [message]: id=Erda
+#: Alfhelm/scenarios/utils/utils.cfg:102
+msgid "Uugh..."
+msgstr ""
+
+#. [message]: id=Friysr
+#: Alfhelm/scenarios/utils/utils.cfg:115
+msgid "Iyssss..."
+msgstr ""
+
+#. [hides]: id=snowwhite
+#: Alfhelm/scenarios/utils/utils.cfg:240 Alfhelm/scenarios/utils/utils.cfg:241
+msgid "snow-white"
+msgstr ""
+
+#. [hides]: id=snowwhite
+#: Alfhelm/scenarios/utils/utils.cfg:245 Alfhelm/scenarios/utils/utils.cfg:249
+msgid ""
+"Snow-white:\n"
+"This unit can hide in tundra, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in tundra, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [unit_type]: id=Alfhelm Jarl, race=marauder
+#: Alfhelm/units/Alfhelm_Jarl.cfg:5
+msgid "Jarl"
+msgstr ""
+
+#. [unit_type]: id=Alfhelm Jarl, race=marauder
+#: Alfhelm/units/Alfhelm_Jarl.cfg:21
+msgid ""
+"A Jarl is the right-hand man of his Marauder Lord, advising him in battle "
+"and away from the field and often ruling in his stead when the Lord must be "
+"away. If a lord dies heirless, often it is the jarl who takes his place."
+msgstr ""
+
+#. [attack]: type=blade
+#: Alfhelm/units/Alfhelm_Lord.cfg:26 Alfhelm/units/Alfhelm_Jarl.cfg:25
+#: Alfhelm/units/Alfhelm_Warrior.cfg:50
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=Alfhelm Lord, race=marauder
+#: Alfhelm/units/Alfhelm_Lord.cfg:5
+msgid "Lord"
+msgstr ""
+
+#. [unit_type]: id=Alfhelm Lord, race=marauder
+#: Alfhelm/units/Alfhelm_Lord.cfg:22
+msgid ""
+"There are few Marauders indeed that are of such skill that they receive the "
+"title Lord. A Marauder Lord is the strongest amongst his kin, and his "
+"fighting skills are constantly tested as many Marauders challenge his status "
+"as supreme champion of his tribe. His heroic deeds and charisma inspires "
+"other Marauders to fight harder for their tribe, and to battle until the "
+"death. Many 'civilized' generals have underestimated the Marauder Lord's "
+"wits and tactics, and paid for their mistake with their lives."
+msgstr ""
+
+#. [unit_type]: id=Alfhelm Warrior, race=marauder
+#: Alfhelm/units/Alfhelm_Warrior.cfg:18
+msgid ""
+"Warriors are the main fighters in the Marauder army. Very strong and faster "
+"than most troops because of their light armour, they reach the front fast, "
+"and once the enemy is routed they often cannot escape the blade of these "
+"swift and brutal men. The Warriors believe that if they die in battle, they "
+"will live forever, drinking and feasting with the gods; it is this that "
+"gives them their fearlessness when fighting."
+msgstr ""
+
+#. [unit_type]: id=Wildfire, race=mechanical
+#: Alfhelm/units/Wildfire.cfg:5
+msgid "Wildfire"
+msgstr ""
